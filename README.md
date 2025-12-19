@@ -35,7 +35,7 @@ java Main
 ## 🛠 Kullanılan Teknolojiler
 
 - **Dil:** Java
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code (isteğe bağlı)
+- **IDE:** IntelliJ IDEA
 
 ---
 *Bu projeler Java öğrenme sürecimdeki pratiklerimi içermektedir.*
